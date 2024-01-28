@@ -1,11 +1,7 @@
-Hi, I'm Rayana Sales, a passionate software developer and tech enthusiast. With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies. I currently work as a Senior Software Developer at ThoughtWorks, where I was able to develop my skills related to quality, software security, soft skills, and sense of leadership. </br>
-
-### 🎓 Education
-
-I hold a degree in Systems Analysis and Development from the Instituto Federal de Pernambuco. Currently, I am furthering my education by getting certifications in the [Epic React Course](https://epicreact.dev/) by [Kent C. Dodds](https://kentcdodds.com/#intro). Kent is one of the React Contributors Team Members. With this course, I am learning advanced React techniques directly from a developer involved with the development of React itself. I have been accumulating experiences and innovations in Porto digital do Recife in a global scale, thus becoming a more complete software developer. I live to learn.
+Hello, World! 👋🌍  I'm Rayana Sales, a passionate software developer and tech enthusiast. With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies. I currently work as a Senior Software Developer at ThoughtWorks, where I was able to develop my skills related to quality, software security, soft skills, and sense of leadership. </br>
 
 ### 🔭 What I am Looking for Going Forward?
-I’m looking to engage in multicultural environments as I want to continue facing challenges related to management and coordination in an international context, in addition to contributing to solutions that have a significant impact on a global scale. It would be a dream to have the opportunity to work developing or contributing to artificial intelligences projects.
+I’m looking to engage in multicultural environments as I want to continue facing challenges related to management and coordination in an international context, in addition to contributing to solutions that have a significant impact on a global scale.
 
 ### 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -46,5 +42,11 @@ I’m looking to engage in multicultural environments as I want to continue faci
 ![Mural](https://img.shields.io/badge/MURAL-050038?style=for-the-badge&logo=mural&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-### 🌎 Reach Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayana-sales) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayanasls)
+### 🌎 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayana-sales) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayanasls)
+
+### 🥷🏻 Secondaries GitHub Accounts
+In the shadowy realms of code, I helm missions shrouded in secrecy. 🕵️‍♀️💼 My alternate GitHub accounts are like digital fortresses, safeguarding highly confidential projects. While there's not much to see (as everything's under wraps), you're welcome to take a sneak peek!</br>
+[![RayanaSalesTW](https://img.shields.io/badge/RayanaSalesTW-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayanaSalesTW)
+[![RayanaSalesABI](https://img.shields.io/badge/RayanaSalesABI-BD93F9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayanaSalesABI)
