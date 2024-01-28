@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RayanaSales
-- 🌎 I'm from Brazil, Recife - where everyday it's a special day, because it's summer ✨ everyday ✨ 🌴🐚 
+- 🌎 I'm from Brazil, Recife - where everyday it's a special day, because it's summer ✨ everyday ✨
 - 📚 I’m interested in React, Node, Typescript and Artificial Intelligence (would be a dream having the opportunity to work developing/contributing to artificial intelligences projects).
 - 🌱 I’m currently learning advance React Techniques with [Kent C. Dodds](https://kentcdodds.com/#intro) on the [Epic React Course](https://epicreact.dev/)
 - 💞️ I’m looking to engage in multicultural environments as I want to continue facing challenges related to management and coordination in an international context, in addition to contributing to solutions that have a significant impact on a global scale.
